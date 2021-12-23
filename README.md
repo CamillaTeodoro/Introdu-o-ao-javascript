@@ -1,3 +1,3 @@
 # Projeto Contador Ensinado na Aula de Introdução ao JavaScript
 
-<p> Projeot melhorado, onde os numeros negativos ficam em vermelho.
+<p> Projeto melhorado, onde os numeros negativos ficam em vermelho.
